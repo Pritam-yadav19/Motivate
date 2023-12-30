@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Motivate/static/css/main.b415ca8f.css",
+    "main.js": "/Motivate/static/js/main.b61bf8b0.js",
+    "static/js/787.704da4f4.chunk.js": "/Motivate/static/js/787.704da4f4.chunk.js",
+    "index.html": "/Motivate/index.html",
+    "main.b415ca8f.css.map": "/Motivate/static/css/main.b415ca8f.css.map",
+    "main.b61bf8b0.js.map": "/Motivate/static/js/main.b61bf8b0.js.map",
+    "787.704da4f4.chunk.js.map": "/Motivate/static/js/787.704da4f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b415ca8f.css",
+    "static/js/main.b61bf8b0.js"
+  ]
+}
